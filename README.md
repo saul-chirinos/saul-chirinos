@@ -2,9 +2,9 @@
 
 :star: I’m interested in data analytics and solving business problems.
 
-:mortar_board: Currently pursuing a Bachelor of Arts in Honours Economics at the University of Calgary.
+:mortar_board: Currently pursuing a Bachelor of Arts in Economics at the University of Calgary.
 
-:globe_with_meridians: You can check out my data science portfolio [here](https://saul-chirinos.github.io/Saul_Portfolio/).
+:globe_with_meridians: Check out my [data science portfolio](https://saul-chirinos.github.io/Saul_Portfolio/).
 
 :mailbox: Contact me via:
 - saul.chirinos10@gmail.com
