@@ -2,7 +2,7 @@
 
 :star: I’m interested in data analytics and solving business problems.
 
-:mortar_board: Currently pursuing a Bachelor of Arts in Economics at the University of Calgary.
+:mortar_board: Recent graduate from the University of Calgary in Economics.
 
 :globe_with_meridians: Check out my [data science portfolio](https://saul-chirinos.github.io/Saul_Portfolio/).
 
