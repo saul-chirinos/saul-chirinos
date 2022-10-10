@@ -7,7 +7,7 @@ Data Scientist
 I am a recent graduate in Economics from the University of Calgary, capable of providing analytical insights and solving business problems with machine learning applications.
 
 * 🌍  I'm based in Calgary, Alberta
-* 🖥️  Check out my [Data Science Portfolio](http://saul-chirinos.github.io/Saul_Portfolio/)
+* 🖥️  Check out my [Data Science Portfolio](https://saul-chirinos.github.io/saul-portfolio/)
 * ✉️  You can contact me at [saul.chirinos10@gmail.com](mailto:saul.chirinos10@gmail.com)
 * 🤝  I'm open to collaborating on interesting data science projects!
 
