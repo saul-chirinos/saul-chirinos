@@ -1,10 +1,10 @@
 Hi 👋 My name is Saul
 =====================
 
-Data Scientist
+Data Analyst
 --------------
 
-I am a recent graduate in Economics from the University of Calgary, capable of providing analytical insights and solving business problems with machine learning applications.
+Data Professional with a BA in Economics and knowledge of Programming and Supply Chain Analytics, capable of creating end-to-end solutions encompassing aspects of data engineering, data analytics, and machine learning.
 
 * 🌍  I'm based in Calgary, Alberta
 * 🖥️  Check out my [Data Science Portfolio](https://saul-chirinos.github.io/saul-portfolio/)
