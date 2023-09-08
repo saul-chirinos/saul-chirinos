@@ -9,7 +9,6 @@ Data Professional with a BA in Economics and knowledge of Programming and Supply
 * 🌍  I'm based in Calgary, Alberta
 * 🖥️  Check out my [Data Science Portfolio](https://saul-chirinos.github.io/saul-portfolio/)
 * ✉️  You can contact me at [saul.chirinos10@gmail.com](mailto:saul.chirinos10@gmail.com)
-* 🤝  I'm open to collaborating on interesting data science projects!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/saulchirinos/) 
